@@ -1,0 +1,1 @@
+curl -fsSL c9setup.saasbook.info | bash --login && rvm use 2.3.0 --default
